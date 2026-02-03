@@ -8,8 +8,6 @@ Salah Time is a Node.js based application designed to help users view daily pray
 # Technologies Used
 1. Node.js.
 2. React.
-# Author
-Shanzay Rizwan.
 # Installation
 To run this project locally, first clone the repository and install the required dependencies. After installation, start the server and open the application in your browser.
 # Usage
